@@ -12,7 +12,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "CleanGo - Residential and Commercial Cleaning Services",
+  title: "kCee Kleans - Residential and Commercial Cleaning Services",
   description: "Professional cleaning services for homes and businesses",
 };
 

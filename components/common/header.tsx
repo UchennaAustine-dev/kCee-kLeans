@@ -26,14 +26,14 @@ export default function Header() {
               whileHover={{ scale: 1.1 }}
               transition={{ type: "spring", stiffness: 300 }}
             >
-              k
+              kCee
             </motion.span>
             <motion.span
               className="text-black"
               whileHover={{ scale: 1.1 }}
               transition={{ type: "spring", stiffness: 300 }}
             >
-              Cee
+              kLeans
             </motion.span>
           </Link>
         </div>
